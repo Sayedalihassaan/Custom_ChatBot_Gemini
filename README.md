@@ -1,4 +1,3 @@
-markdown
 # 🤖 Custom Gemini Assistant
 
 A conversational AI assistant built with **LangChain**, **Streamlit**, and **Google's Gemini 1.5 model**. This project allows users to interact with a friendly and configurable AI chatbot through a simple web interface.
