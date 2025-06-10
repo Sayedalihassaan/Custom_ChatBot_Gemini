@@ -1,4 +1,4 @@
-```markdown
+markdown
 # 🤖 Custom Gemini Assistant
 
 A conversational AI assistant built with **LangChain**, **Streamlit**, and **Google's Gemini 1.5 model**. This project allows users to interact with a friendly and configurable AI chatbot through a simple web interface.
@@ -170,4 +170,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 Would you also like me to generate the contents of `requirements.txt` based on your code?
-```
