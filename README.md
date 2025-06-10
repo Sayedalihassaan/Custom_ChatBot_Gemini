@@ -170,4 +170,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 Would you also like me to generate the contents of `requirements.txt` based on your code?
-```
